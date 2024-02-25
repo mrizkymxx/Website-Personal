@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #090909;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    text-align: center;
+    background-color: #545353;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text {
+    max-width: 800px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.image {
+    display: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: 0;
+    background:url(../images/about/welcome-banner.jpg)no-repeat;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
